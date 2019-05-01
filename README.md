@@ -1,7 +1,7 @@
 <h1 align="center">Draw This</h1>
 
 ## Introducción
-En este proyecto se ha realizado una versión para dispositivos móviles del proyecto: https://danmacnish.com/2018/07/01/draw-this/ de Dan Macnish.
+En este proyecto se ha realizado una versión para dispositivos móviles del proyecto: https://danmacnish.com/2018/07/01/draw-this de Dan Macnish.
 
 La funcionalidad principal de esta aplicación es tomar una foto y convertirla en un dibujo heho a mano. Como funcionalidades secundarias, la aplicación permite compartir los dibujos realizados y gestionar una pequeña galería de los dibujos realizados.
 
