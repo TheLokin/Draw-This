@@ -1,0 +1,26 @@
+name: draw_this
+description: Draw This is a polaroid camera that draws cartoons.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  image_picker: ^0.4.10
+  path_provider: ^0.4.1
+  http: ^0.12.0
+  advanced_share:
+    git:
+      url: git://github.com/devdennysegura/Flutter-Advanced-Share
+      ref: e70543c2af2cc62803f0d313447b6fd99f4b97de
+  transparent_image: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+flutter:
+  uses-material-design: true
